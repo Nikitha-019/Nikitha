@@ -1,3 +1,3 @@
-# Nikitha
+xyz
 This is my first repository
-Author- Niktha
+Author- xyz
